@@ -1,0 +1,8 @@
+numpy
+graphkernels
+igraph
+rpy2
+sklearn
+networkx
+argparse
+
