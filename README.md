@@ -14,6 +14,7 @@ e2st_compare.sh runs various complementary apporaches
 
 
 \python folder includes necessary python functions to replicate the experiments
+
 \Rcode folder includes relevant R code for ERGMs with known results
 #### the code is organised to promote python-R interactions to benefit both communities
 
